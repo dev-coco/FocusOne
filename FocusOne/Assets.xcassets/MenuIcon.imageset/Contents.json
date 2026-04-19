@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "MenuIcon.heic",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "MenuIcon@2x.heic",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "template"
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy - Accessibility Usage Description</key>
+	<string>我们需要此权限来检测当前活动窗口，以便调暗背景窗口。</string>
+</dict>
+</plist>
